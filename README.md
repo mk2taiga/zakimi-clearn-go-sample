@@ -1,10 +1,10 @@
-#zakimi-clearn-go-sample
+# zakimi-clearn-go-sample
 
-##Description
+## Description
 CleanArchitecutureをGolangで実装した、簡単なWebアプリケーションです
 あくまでも、練習用です
 
-##Install
+## Install
 1. コードを取得する
 ```
 cd $WORKDIR
